@@ -1,2 +1,15 @@
-theme: jekyll-theme-cayman
-title: Online Portfolio: Andrew Myers
+# Site wide configuration
+title: Online Portfolio for Andrew Myers
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Andrew Myers
+  avatar: #bio-photo.jpg
+  bio: "This is a sample Jekyll portfolio website."
+  email: antmyers@umich.edu
+  # Do not include the @ symbol in your Twitter username
+  twitter: AndrewtMyers13
+  linkedin: #username
+  github: antmyers
