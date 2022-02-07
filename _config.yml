@@ -1,5 +1,6 @@
 # Site wide configuration
 title: Online Portfolio for Andrew Myers
+description: a simple online portfolio for Andrew Myers
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
