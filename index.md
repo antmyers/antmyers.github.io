@@ -3,4 +3,4 @@
 
 ## Projects
 
-- [The Legend of Zelda (Unity Remaster)](https://cdn.destructoid.com//ul/317824-zelda%20memes.jpg)
+- [The Legend of Zelda (Unity Remaster)](antmyers.github.io/webbuild_loz/index.html)
